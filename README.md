@@ -2,12 +2,6 @@ Hi, Everyone,👋
 
 # Todo App
 
-### Project Description
-
-Todo App is the app for managing the daily task with simple but **creative manner** and **achivable** with **high visuability** for task priority and category for to stay productive in daily life.
-
-# Todo App
-
 ## Project Description
 
 Todo App is designed for managing daily tasks in a simple and creative manner, making them achievable with high visibility for task priority and categories, ensuring productivity in daily life.
