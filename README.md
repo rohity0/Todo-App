@@ -43,9 +43,8 @@ Todo App is designed for managing daily tasks in a simple and creative manner, m
 ## Run Command
 
 1. Required two terminal in vs code
-2. npm install
-3. npm run start -\*\*1st command to start the react
-4. json-server --watch db.json --port 5000 -\*\* 2nd Command - to start json-server
+2. npm run start -\*\*1st command to start the react
+3. json-server --watch db.json --port 5000 -\*\* 2nd Command - to start json-server
 
 ### Folder Structure
 
